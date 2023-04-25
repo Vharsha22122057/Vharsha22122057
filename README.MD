@@ -3,4 +3,4 @@
 ⛏  Developing myself in Image Processing.
 📈 I’m interested in Computer Vision.
 📓 I’m currently learning Python,MySQL and R.
-📫 How to reach me : vharsha2234@gmail.com
+📫 How to reach me : vharsha2234@gmail.com 
